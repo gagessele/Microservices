@@ -1,0 +1,15 @@
+C:\Projects\Microservices\06\demos\Gateway\GloboTicket.MobileApp\GloboTicket.MobileApp\bin\Debug\netstandard2.0\GloboTicket.MobileApp.deps.json
+C:\Projects\Microservices\06\demos\Gateway\GloboTicket.MobileApp\GloboTicket.MobileApp\bin\Debug\netstandard2.0\GloboTicket.MobileApp.dll
+C:\Projects\Microservices\06\demos\Gateway\GloboTicket.MobileApp\GloboTicket.MobileApp\bin\Debug\netstandard2.0\ref\GloboTicket.MobileApp.dll
+C:\Projects\Microservices\06\demos\Gateway\GloboTicket.MobileApp\GloboTicket.MobileApp\bin\Debug\netstandard2.0\GloboTicket.MobileApp.pdb
+C:\Projects\Microservices\06\demos\Gateway\GloboTicket.MobileApp\GloboTicket.MobileApp\obj\Debug\netstandard2.0\GloboTicket.MobileApp.csproj.AssemblyReference.cache
+C:\Projects\Microservices\06\demos\Gateway\GloboTicket.MobileApp\GloboTicket.MobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Projects\Microservices\06\demos\Gateway\GloboTicket.MobileApp\GloboTicket.MobileApp\obj\Debug\netstandard2.0\Views\EventDetailView.xaml.g.cs
+C:\Projects\Microservices\06\demos\Gateway\GloboTicket.MobileApp\GloboTicket.MobileApp\obj\Debug\netstandard2.0\Views\EventOverviewView.xaml.g.cs
+C:\Projects\Microservices\06\demos\Gateway\GloboTicket.MobileApp\GloboTicket.MobileApp\obj\Debug\netstandard2.0\GloboTicket.MobileApp.AssemblyInfoInputs.cache
+C:\Projects\Microservices\06\demos\Gateway\GloboTicket.MobileApp\GloboTicket.MobileApp\obj\Debug\netstandard2.0\GloboTicket.MobileApp.AssemblyInfo.cs
+C:\Projects\Microservices\06\demos\Gateway\GloboTicket.MobileApp\GloboTicket.MobileApp\obj\Debug\netstandard2.0\GloboTicket.MobileApp.csproj.CoreCompileInputs.cache
+C:\Projects\Microservices\06\demos\Gateway\GloboTicket.MobileApp\GloboTicket.MobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Projects\Microservices\06\demos\Gateway\GloboTicket.MobileApp\GloboTicket.MobileApp\obj\Debug\netstandard2.0\GloboTicket.MobileApp.dll
+C:\Projects\Microservices\06\demos\Gateway\GloboTicket.MobileApp\GloboTicket.MobileApp\obj\Debug\netstandard2.0\ref\GloboTicket.MobileApp.dll
+C:\Projects\Microservices\06\demos\Gateway\GloboTicket.MobileApp\GloboTicket.MobileApp\obj\Debug\netstandard2.0\GloboTicket.MobileApp.pdb

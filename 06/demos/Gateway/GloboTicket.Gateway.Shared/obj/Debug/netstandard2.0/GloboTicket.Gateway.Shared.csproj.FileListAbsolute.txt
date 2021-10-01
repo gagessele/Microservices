@@ -1,0 +1,9 @@
+C:\Projects\Microservices\06\demos\Gateway\GloboTicket.Gateway.Shared\bin\Debug\netstandard2.0\GloboTicket.Gateway.Shared.deps.json
+C:\Projects\Microservices\06\demos\Gateway\GloboTicket.Gateway.Shared\bin\Debug\netstandard2.0\GloboTicket.Gateway.Shared.dll
+C:\Projects\Microservices\06\demos\Gateway\GloboTicket.Gateway.Shared\bin\Debug\netstandard2.0\GloboTicket.Gateway.Shared.pdb
+C:\Projects\Microservices\06\demos\Gateway\GloboTicket.Gateway.Shared\obj\Debug\netstandard2.0\GloboTicket.Gateway.Shared.AssemblyInfoInputs.cache
+C:\Projects\Microservices\06\demos\Gateway\GloboTicket.Gateway.Shared\obj\Debug\netstandard2.0\GloboTicket.Gateway.Shared.AssemblyInfo.cs
+C:\Projects\Microservices\06\demos\Gateway\GloboTicket.Gateway.Shared\obj\Debug\netstandard2.0\GloboTicket.Gateway.Shared.csproj.CoreCompileInputs.cache
+C:\Projects\Microservices\06\demos\Gateway\GloboTicket.Gateway.Shared\obj\Debug\netstandard2.0\GloboTicket.Gateway.Shared.dll
+C:\Projects\Microservices\06\demos\Gateway\GloboTicket.Gateway.Shared\obj\Debug\netstandard2.0\GloboTicket.Gateway.Shared.pdb
+C:\Projects\Microservices\06\demos\Gateway\GloboTicket.Gateway.Shared\obj\Debug\netstandard2.0\GloboTicket.Gateway.Shared.csproj.AssemblyReference.cache

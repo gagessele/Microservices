@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yinct5IX3z7Ve8JjZMrahSBfKaMd0GdMdL1RpcC/NoBHun2drlL5+5h5w1Iprcf4Smn+EoANpZi9hzgyWbf1eg==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Microservices\\Async communication\\GloboTicket.Integration.Messages\\GloboTicket.Integration.Messages.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ederson.gessele\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ederson.gessele\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
